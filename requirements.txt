@@ -1,0 +1,8 @@
+streamlit
+numpy
+pillow
+numpy
+tensorflow==2.10.0
+python-multipart
+altair<5
+pandas
